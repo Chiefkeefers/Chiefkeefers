@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="500" src="https://images.steamusercontent.com/ugc/950711385004510226/C336895117D8419745F43D3B21E8894894EF0524/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="500" src="https://media.tenor.com/rpl2GU3fU94AAAAM/imperial-parade-warhammer40k.gif"  />
 </div>
 
 ###
