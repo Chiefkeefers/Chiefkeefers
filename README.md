@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://images.steamusercontent.com/ugc/950711385004510226/C336895117D8419745F43D3B21E8894894EF0524/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<div align="center">
+  <img height="500" src="https://images.steamusercontent.com/ugc/950711385004510226/C336895117D8419745F43D3B21E8894894EF0524/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
+
+###
