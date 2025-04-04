@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <defs>
         <pattern id="bg" patternUnits="userSpaceOnUse" width="100%" height="100%">
-            <image href="./images.steamusercontent.gif" x="0" y="0" height="100%" />
+            <image href="https://github.com/Chiefkeefers/Chiefkeefers/blob/main/images.steamusercontent.gif" x="0" y="0" height="100%" />
         </pattern>
     </defs>
     <path fill="url(#bg)" fill-rule="evenodd" clip-rule="evenodd" d="M70 0C31.3401 0 0 31.3401 0 70V615C0 628.807 11.1929 640 25 640H44.623C32.6724 614.321 26 585.69 26 555.5C26 444.767 115.767 355 226.5 355C337.233 355 427 444.767 427 555.5C427 585.69 420.328 614.321 408.377 640H1569C1582.81 640 1594 628.807 1594 615V70C1594 31.3401 1562.66 0 1524 0H70Z"/>
